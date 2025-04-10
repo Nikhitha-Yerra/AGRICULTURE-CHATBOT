@@ -1,0 +1,12 @@
+{
+    "73d99b00-1153-46f1-8321-cc4dbea00e32": [
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hey! How are you? I am AGRICULTURE chatbot.\n"
+        }
+    ]
+}
